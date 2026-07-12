@@ -17,8 +17,8 @@ The dashboard is designed to improve operational visibility, simplify reporting,
 - Monitor customer support KPIs
 - Track SLA performance
 - Analyze ticket volume trends
-- Measure agent productivity
-- Monitor call performance
+- Measure team productivity
+- Monitor operational performance
 - Enable data-driven decision-making
 - Reduce manual reporting efforts
 
@@ -29,9 +29,8 @@ The dashboard is designed to improve operational visibility, simplify reporting,
 - Executive KPI Dashboard
 - SLA Performance Monitoring
 - Ticket Volume Analysis
-- Agent Productivity Tracking
-- Call Performance Dashboard
-- Interactive Date & Team Filters
+- Team Performance Tracking
+- Interactive Filters
 - Automated Google Sheets Integration
 - Real-time Operational Reporting
 
@@ -52,19 +51,19 @@ The dashboard is designed to improve operational visibility, simplify reporting,
 
 ## Dashboard Overview
 
-![Dashboard Overview](screenshots/dashboard-overview.png)
+![Dashboard Overview](screenshots/dashboard-overview.png.png)
 
 ---
 
 ## KPI Summary
 
-![KPI Summary](screenshots/kpi-summary.png)
+![KPI Summary](screenshots/kpi-summary.png.png)
 
 ---
 
 ## Ticket Trends
 
-![Ticket Trends](screenshots/ticket-trends.png)
+![Ticket Trends](screenshots/ticket-trends.png.png)
 
 ---
 
@@ -73,10 +72,9 @@ The dashboard is designed to improve operational visibility, simplify reporting,
 - Total Tickets
 - SLA Performance
 - Ticket Trends
-- Agent Productivity
-- Call Analytics
-- Customer Support KPIs
-- Operational Performance
+- Team Productivity
+- Operational KPIs
+- Performance Monitoring
 
 ---
 
@@ -97,29 +95,29 @@ The dashboard is designed to improve operational visibility, simplify reporting,
 
 # 🚀 Business Impact
 
-This dashboard demonstrates how customer support data can be transformed into meaningful business insights through interactive reporting.
+This dashboard demonstrates how operational data can be transformed into meaningful business insights through interactive reporting.
 
-Key benefits include:
+### Key Benefits
 
 - Centralized operational reporting
 - Improved KPI visibility
 - Faster leadership decision-making
 - Reduced manual reporting effort
-- Better monitoring of support team performance
+- Better operational performance tracking
 
 ---
 
 # 📂 Repository Structure
 
-```
+```text
 customer-support-operations-dashboard/
 │
 ├── documentation/
 ├── sample-data/
 ├── screenshots/
-│   ├── dashboard-overview.png
-│   ├── kpi-summary.png
-│   └── ticket-trends.png
+│   ├── dashboard-overview.png.png
+│   ├── kpi-summary.png.png
+│   └── ticket-trends.png.png
 │
 ├── README.md
 └── LICENSE
@@ -132,9 +130,9 @@ customer-support-operations-dashboard/
 - SQL Database Integration
 - API-Based Data Refresh
 - Predictive Analytics
+- Automated Reporting
 - Advanced KPI Monitoring
-- Automated Email Reports
-- Enhanced Executive Dashboard
+- Executive Performance Dashboard
 
 ---
 
@@ -151,5 +149,3 @@ All screenshots and documentation have been anonymized. No confidential customer
 **Alokesh Saha**
 
 Operations | Customer Experience | Business Intelligence | Looker Studio | Google Sheets | Data Analytics
-
-Connect with me on LinkedIn to discuss operations, analytics, and dashboard development.
